@@ -8,5 +8,8 @@ public class A {
 
 		B b = new B();
 		b.myB();
+
+		C c = new C();
+		c.myC();
 	}
 }
