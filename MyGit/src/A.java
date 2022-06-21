@@ -5,5 +5,8 @@ public class A {
 		System.out.println("Let's start HW!!!");
 		
 		System.out.println("After merge");
+
+		B b = new B();
+		b.myB();
 	}
 }
